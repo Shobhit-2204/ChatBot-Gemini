@@ -1,0 +1,47 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Build artifacts
+build
+dist
+.vite # if using Vite
+/es
+/lib
+/storybook-static
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS and Editor files
+.DS_Store
+.idea
+.vscode
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.vssscc
+.cache
+.eslintcache
+.rpt2_cache
+.rts2_cache
+.docusaurus
+
+# TypeScript
+*.tsbuildinfo
