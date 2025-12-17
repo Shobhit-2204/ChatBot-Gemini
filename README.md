@@ -45,7 +45,7 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shivamverma0051/Gemini-react.git
+git clone [https://github.com/Shobhit-2204/ChatBot-Gemini.git]
 cd Gemini-react
 ```
 
