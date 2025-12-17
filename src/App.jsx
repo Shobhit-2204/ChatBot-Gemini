@@ -11,7 +11,7 @@ function App() {
   const fileInputRef = useRef(null);
 
   // API configuration - REPLACE WITH YOUR API KEY
-  const GEMINI_API_KEY = "AIzaSyCH8yjuMdEQxuDjKcMzZRLP4x9caiwc3uk";
+  const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
   const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
 
   // Suggestions data
