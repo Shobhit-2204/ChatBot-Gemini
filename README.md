@@ -45,7 +45,7 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shivamverma0051/Gemini-react.git
+git clone [https://github.com/Shobhit-2204/ChatBot-Gemini.git]
 cd Gemini-react
 ```
 
@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Shivam Verma**
-- GitHub: [@shivamverma0051](https://github.com/shivamverma0051)
+- GitHub: [@Shobhit-2204](https://github.com/Shobhit-2204/)
 
 ## 🙏 Acknowledgments
 
